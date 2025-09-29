@@ -1,5 +1,5 @@
-"Creativity and Commitment is the only limitation"
-I am part of VelosaX Enterprise, VelosaX Game Studios and the InterGTM Gaming Alliance
+"Creativity and Commitment is the only Limitation"
+I am part of VelosaX Enterprise, VelosaX Game Studios and Onexes
 
 <!---
 DrEpicGTM/DrEpicGTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
