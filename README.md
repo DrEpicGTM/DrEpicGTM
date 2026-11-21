@@ -1,5 +1,6 @@
-"Creativity and Commitment is the only Limitation"
-I am part of VelosaX Enterprise and Paravertex Games
+A hobbyist game developer, currently working on games such as Luanti and creating skins for JMA's CTF.
+
+I am dedicated to only making human-slop. No AI content here.
 
 <!---
 DrEpicGTM/DrEpicGTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
